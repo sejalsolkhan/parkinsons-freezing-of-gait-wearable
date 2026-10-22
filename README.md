@@ -4,6 +4,15 @@ Developed at MIT Beaver Works Summer Institute (BWSI) 2026.
 
 ## Project Overview
 Designed and built an e-textile knee sleeve that uses an accelerometer and flex sensor to detect simulated Parkinson's Freezing of Gait (FoG) patterns and provide vibration-based haptic feedback.
+## Final Prototype
+
+**Electronics Integration**
+
+![Knee Sleeve Electronics](knee-sleeve-electronics.jpeg)
+
+**Completed Wearable**
+
+![Final Knee Sleeve](knee-sleeve-final.jpeg)
 
 ## Hardware
 - Adafruit Circuit Playground Express (SAMD21)
